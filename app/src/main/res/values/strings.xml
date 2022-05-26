@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">ShieldPay</string>
+
+    <!-- Onboarding Screen Strings-->
+    <string name="titleOne">Send Money</string>
+    <string name="descriptionOne">Send money easily and with one click everything will be sent every time you make a transaction</string>
+    <string name="titleTwo">Request Money</string>
+    <string name="descriptionTwo">You can request money to friends or family to send as much money as you want</string>
+    <string name="titleThree">Easy To Use</string>
+    <string name="descriptionThree">Very easy to use and easy to understand for those of you who are beginners</string>
+    <string name="name">ABC</string>
+    <string name="next_step">Next Step</string>
+    <string name="skip_this_step"><u>Skip this Step</u></string>
+    <string name="create_account">Create Account</string>
+    <string name="login_now">Login Now</string>
+    <string name="shieldpay">SHIELDPAY</string>
+
+    <!-- Signup Screen Strings-->
+    <string name="welcome">Welcome !</string>
+    <string name="full_name">Full Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="agree">I have agree to our</string>
+    <string name="terms_and_condition">Terms and Condition</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="with_phone_number">With Phone Number</string>
+    <string name="already_have_an_account">Already have an account ?</string>
+    <string name="i_have_agree_to_our_terms_and_condition">I have agree to our Terms and Condition</string>
+    <string name="sign_in">Sign In</string>
+
+    <!-- Signin Screen Strings-->
+    <string name="welcomeback">Welcome Back!</string>
+    <string name="dont_have_an_account">Don’t have an account ?</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="name_validation">Required!</string>
+    <string name="email_validation">Valid email address required!</string>
+    <string name="password_validation">Password too short!</string>
+    <string name="create_password">Create Password</string>
+    <string name="delete"><![CDATA[<-]]></string>
+    <string name="forgot_passwordOne">Forgot Password</string>
+    <string name="forgot_password_info">Enter your registered email below to receive password reset instruction</string>
+    <string name="send_verification_code">Send Verification Code</string>
+    <string name="your_phone_number">Your Phone Number</string>
+    <string name="enter_your_mobile_number_to_register_an_account">Enter your mobile number to register an account</string>
+    <string name="send_code">Send Code</string>
+    <string name="sign_up_with_email">Sign Up With Email</string>
+    <string name="india">India</string>
+    <string name="_91">+91</string>
+    <string name="phone">phone</string>
+
+    <!-- Phone Screen Strings-->
+    <string name="first">+91</string>
+    <string name="second">+92</string>
+    <string name="third">+93</string>
+    <string name="fourth">+94</string>
+    <string name="fifth">+95</string>
+    <string name="sixth">+96</string>
+    <string name="seneventh">+97</string>
+    <string name="verify_account">Verify Account</string>
+    <string name="enter_4_digit_code_we_have_sent">Enter 4 digit code we have sent to </string>
+    <string name="number">+6285788773880</string>
+    <string name="haven_t_received_verification_code">Haven’t received verification code?</string>
+    <string name="resend_code"><u>Resend Code</u></string>
+    <string name="verify_now">Verify Now</string>
+    <string name="account_created">Account Created</string>
+    <string name="account_info">Your account has been created successfully. <br />Press continue to continue using the app</string>
+    <string name="button_continue">Continue</string>
+    <string name="agree_terms">By clicking continue, you agree to our</string>
+    <string name="terms">Terms and Conditions</string>
+
+    <!-- Home Screen Strings-->
+    <string name="my_balance">My Balance</string>
+    <string name="_2887_65">$2887.65</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="alexander_michael">Alexander Michael</string>
+    <string name="send">Send</string>
+    <string name="top_up">Top up</string>
+    <string name="pay">Pay</string>
+    <string name="your_cards">Your Cards</string>
+    <string name="view_all">View All</string>
+    <string name="payment_card">Payment Card</string>
+    <string name="card_one_no">2298 1268 3398 9874</string>
+    <string name="card_one_amount">$2885.00</string>
+    <string name="card_one_date">12/24</string>
+    <string name="card_two_no">3498 1268 3398 9874</string>
+    <string name="card_two_amount">$5885.00</string>
+    <string name="card_two_date">18/24</string>
+    <string name="card_three_no">2298 1268 3398 9874</string>
+    <string name="card_three_amount">$5885.00</string>
+    <string name="card_three_date">06/24</string>
+    <string name="your_saving">Your Saving</string>
+    <string name="buy_playstation">Buy Playstation</string>
+    <string name="slim_1_tb_56_games">Slim 1 TB 56 Games</string>
+    <string name="home">Home</string>
+    <string name="history">History</string>
+    <string name="statistic">Statistic</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="notification">Notification</string>
+    <string name="you_have_received_money_from_dodi_taison_32_00">You have received money from Dodi Taison +$32.00</string>
+    <string name="_11_00_am">11.00 AM</string>
+    <!-- Notification Screen Strings -->
+    <string name="allNotifications">All Notification</string>
+    <string name="unread">Unread</string>
+    <string name="cards">Your Cards</string>
+    <string name="add_credit_card">Add Credit Card</string>
+    <string name="eve_holt_reqres_in">eve.holt@reqres.in</string>
+    <string name="pistol">pistol</string>
+    <string name="cityslicka">cityslicka</string>
+    <string name="http_url_connection">HTTP URL Connection</string>
+    <string name="retrofit">Retrofit</string>
+    <string name="http">HTTP</string>
+
+</resources>
