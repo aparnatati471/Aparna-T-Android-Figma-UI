@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">ShieldPay</string>
+
+    <!-- Onboarding Screen Strings-->
+    <string name="titleOne">Send Money</string>
+    <string name="descriptionOne">Send money easily and with one click everything will be sent every time you make a transaction</string>
+    <string name="titleTwo">Request Money</string>
+    <string name="descriptionTwo">You can request money to friends or family to send as much money as you want</string>
+    <string name="titleThree">Easy To Use</string>
+    <string name="descriptionThree">Very easy to use and easy to understand for those of you who are beginners</string>
+    <string name="name">ABC</string>
+    <string name="next_step">Next Step</string>
+    <string name="skip_this_step"><u>Skip this Step</u></string>
+    <string name="create_account">Create Account</string>
+    <string name="login_now">Login Now</string>
+    <string name="shieldpay">SHIELDPAY</string>
+
+    <!-- Signup Screen Strings-->
+    <string name="welcome">Welcome !</string>
+    <string name="full_name">Full Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="agree">I have agree to our</string>
+    <string name="terms_and_condition">Terms and Condition</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="with_phone_number">With Phone Number</string>
+    <string name="already_have_an_account">Already have an account ?</string>
+    <string name="sign_in">Sign In</string>
+
+    <!-- Signin Screen Strings-->
+    <string name="welcomeback">Welcome Back!</string>
+    <string name="dont_have_an_account">Don’t have an account ?</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="name_validation">Required!</string>
+    <string name="email_validation">Valid email address required!</string>
+    <string name="password_validation">Password too short!</string>
+
+</resources>
