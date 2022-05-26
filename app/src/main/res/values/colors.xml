@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="onboard_title">#262626</color>
+    <color name="onboard_description">#999999</color>
+    <color name="dot_selected">#100D40</color>
+    <color name="dot_deselected">#F5F5F5</color>
+    <color name="label_color">#333333</color>
+    <color name="label_header_color">#020614</color>
+    <color name="textfield_color">#F7F7F7</color>
+    <color name="forgot_color">#999999</color>
+    <color name="red">#C51717</color>
+    <color name="line">#F2F2F2</color>
+    <color name="white_two">#FFFFFFF8</color>
+    <color name="toolbar_title_color">#262626</color>
+    <color name="tab_color">#CCCCCC</color>
+    <color name="cardview_background">#F6F9F9</color>
+
+</resources>
