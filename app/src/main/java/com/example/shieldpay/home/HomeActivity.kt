@@ -13,11 +13,6 @@ class HomeActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         binding = ActivityHomeBinding.inflate(layoutInflater)
         setContentView(binding.root)
-        setUpCardDetails()
     }
 
-    private fun setUpCardDetails() {
-        val cardRecyclerView = binding.cards
-        //cardRecyclerView.adapter = CardAdapter(Data.cardData(this))
-    }
 }
