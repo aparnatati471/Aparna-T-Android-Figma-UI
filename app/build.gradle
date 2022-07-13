@@ -1,14 +1,31 @@
 plugins {
     id 'com.android.application'
     id 'org.jetbrains.kotlin.android'
+    id 'com.google.gms.google-services'
     id 'kotlin-kapt'
 }
 
 android {
+    signingConfigs {
+        release {
+            storeFile file("release-key.keystore")
+            storePassword 'password'
+            keyAlias 'alias'
+            keyPassword 'sheildpay'
+        }
+        qa {
+            storeFile file("release-key.keystore")
+            storePassword 'password'
+            keyAlias 'alias'
+            keyPassword 'sheildpay'
+        }
+    }
+
     buildFeatures {
         viewBinding true
         dataBinding true
     }
+
 
     compileSdk 32
 
@@ -28,6 +45,21 @@ android {
     }
     kotlinOptions {
         jvmTarget = '1.8'
+    }
+
+    buildTypes {
+        release {
+            initWith debug
+            minifyEnabled false
+        }
+        qa {
+            initWith debug
+            minifyEnabled false
+            debuggable true
+        }
+    }
+    productFlavors {
+
     }
 }
 
